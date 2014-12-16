@@ -1,6 +1,6 @@
 # sms
 
-A Sinatra app that provides SMS service
+A Sinatra app that provides SMS service based on Twilio API
 
 ## Set up
 
